@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.motoka64.runapp",
+    "sha256_cert_fingerprints":
+    ["BA:6F:F7:F7:B6:46:59:AD:E0:A9:EA:2E:9F:AE:3C:80:07:2A:70:52:04:D1:EC:43:49:9C:98:4E:0E:8E:9F:01"]
+  }
+}]
